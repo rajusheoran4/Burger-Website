@@ -82,17 +82,6 @@
     transform: translateY(-15px);
 }
 
-#home::before {
-    content: '';
-    background-color: #fff6e5;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 100%;
-    height: 80%;
-    z-index: -1;
-}
-
 .bottom-container {
     padding: 15px;
     display: flex;
